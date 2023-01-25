@@ -9,6 +9,5 @@ Opinions are mine alone.
 - :office: LinkedIn: https://www.linkedin.com/in/danielwaechter/
 - :elephant: Mastodon: https://mastodon.gamedev.place/@danielwaechter
 - :bird: Twitter: https://twitter.com/danielwaechter
-- :email: Email: `daniel at danielwaechter dot com`
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=academician.academician)
